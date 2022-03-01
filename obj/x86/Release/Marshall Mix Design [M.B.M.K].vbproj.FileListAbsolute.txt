@@ -1,0 +1,14 @@
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\bin\Release\Marshall Mix Design [M.B.M.K].exe
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\bin\Release\Marshall Mix Design [M.B.M.K].pdb
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\bin\Release\Marshall Mix Design [M.B.M.K].xml
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall_Mix_Design__M.B.M.K_.Analaysis.resources
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall_Mix_Design__M.B.M.K_.CriteriaForm.resources
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall_Mix_Design__M.B.M.K_.DataShow.resources
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall_Mix_Design__M.B.M.K_.Form1.resources
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall_Mix_Design__M.B.M.K_.Form2.resources
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall_Mix_Design__M.B.M.K_.Degree_Pol_text.resources
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall_Mix_Design__M.B.M.K_.Resources.resources
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall Mix Design [M.B.M.K].vbproj.GenerateResource.Cache
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall Mix Design [M.B.M.K].exe
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall Mix Design [M.B.M.K].xml
+E:\2015\الفصل الاول\Marshel Mix Design Software\Marshall Mix Design [M.B.M.K]\Marshall Mix Design [M.B.M.K]\obj\x86\Release\Marshall Mix Design [M.B.M.K].pdb
