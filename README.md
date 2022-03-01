@@ -1,7 +1,7 @@
 # Marshall-Mix-Design-M.B.M.K-
 
 This software is written in Visual Basic language and it is a user-friendly tool to determine the optimum asphalt content in asphalt mixtures using the Marshall Mix design method. 
-To learn more about the marshall mix design method, see: https://pavementinteractive.org/reference-desk/design/mix-design/marshall-mix-design/
+To learn more about the marshall mix design method, see: https://www.civil.iitb.ac.in/tvm/1100_LnTse/407_lnTse/plain/plain.html
 
 
 The input file is a text file that has the labratury results for each sample as the follwoing: 
